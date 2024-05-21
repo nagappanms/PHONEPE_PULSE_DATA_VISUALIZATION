@@ -1,6 +1,6 @@
 # PHONEPE_PULSE_DATA_VISUALIZATION
 
-PhonePe Data Visualization and Exploration is a Streamlit application designed for educational purposes. It provides dynamic data visualization, interactive charts, and real-time data updates, enabling users to explore and analyze data related to transactions, insurance, and user activities on the PhonePe platform.
+PhonePe Data Visualization and Exploration is a Streamlit application designed for educational purposes. It provides dynamic data visualization, interactive charts, and real-time data updates, enabling users to explore and analyze data related to transactions and user activities on the PhonePe platform.
 
 # Introduction
 
@@ -14,27 +14,21 @@ Dynamic data visualization Interactive charts and graphs Real-time data updates 
 
 1. Aggregated Analysis
    
-i. Aggregated Insurance Analysis Select the year using the slider. Select the quarter using the slider. Select the state using the dropdown menu.
+i. Aggregated Transaction Analysis Select the year using the slider. Select the state using the dropdown menu. Select the quarter using the slider. Select the state based on the quarter using the dropdown menu.
 
-ii. Aggregated Transaction Analysis Select the year using the slider. Select the state using the dropdown menu. Select the quarter using the slider. Select the state based on the quarter using the dropdown menu.
-
-iii. Aggregated User Analysis Select the year using the slider. Select the quarter using the slider. Select the state based on the quarter using the dropdown menu.
+ii. Aggregated User Analysis Select the year using the slider. Select the quarter using the slider. Select the state based on the quarter using the dropdown menu.
 
 2. Map Analysis
 
- i. Map Insurance Analysis Select the year using the slider. Select the state using the dropdown menu.
+i. Map Transaction Analysis Select the year using the slider. Select the state using the dropdown menu. Select the quarter using the slider. Select the state based on the quarter using the dropdown menu.
 
-ii. Map Transaction Analysis Select the year using the slider. Select the state using the dropdown menu. Select the quarter using the slider. Select the state based on the quarter using the dropdown menu.
-
-iii. Map User Analysis Select the year using the slider. Select the state using the dropdown menu.
+ii. Map User Analysis Select the year using the slider. Select the state using the dropdown menu.
 
 3. Top Analysis
 
- i. Top Insurance Analysis Select the year using the slider. Select the state using the dropdown menu.
+i. Top Transaction Analysis Select the table name using the dropdown menu.
 
-ii. Top Transaction Analysis Select the table name using the dropdown menu.
-
-iii. Top User Analysis Select the table name using the dropdown menu. Select the state using the dropdown menu.
+ii. Top User Analysis Select the table name using the dropdown menu. Select the state using the dropdown menu.
 
 # Technologies Used
 
