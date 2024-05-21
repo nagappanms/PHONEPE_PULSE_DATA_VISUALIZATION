@@ -56,3 +56,8 @@ Clone this repository.
 Install the required dependencies using pip install -r requirements.txt.
 
 Run the Streamlit application using streamlit run phonepe.py.
+
+
+Link
+
+[[http://localhost:8501/#PHONEPE_PULSE_DATA_VISUALIZATION)
