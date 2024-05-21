@@ -60,4 +60,4 @@ Run the Streamlit application using streamlit run phonepe.py.
 
 Link
 
-(http://localhost:8501/#PHONEPE_PULSE_DATA_VISUALIZATION)
+http://localhost:8501/#PHONEPE_PULSE_DATA_VISUALIZATION
